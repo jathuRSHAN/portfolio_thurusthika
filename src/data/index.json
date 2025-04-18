@@ -1,0 +1,86 @@
+{
+  "skills": [
+    {
+      "id": "3",
+      "src": "./img/dpmc1.png",
+      "title": "Interim Engineering Intern - Electronics",
+      "company": "David Pieris Motor Company (Pvt) Ltd",
+      "url": "https://www.dpmco.com/",
+      "period": "Jan 2024- July 2024",
+      "description": "Skilled in PCB design and schematic development using Eagle CAD and Altium Designer for compact and efficient embedded systems. Proficient in Arduino-based programming (C/C++) for sensor interfacing and real-time data processing. Experienced in circuit testing and debugging, LFP battery systems, and solar-powered embedded applications. Hands-on with fabrication tools like CNC laser cutters and welding machines for creating precision hardware components."
+    },
+    {
+      "id": "1",
+      "src": "./img/STLite-Logo1.png",
+      "title": "Associate Electronic Engineer",
+      "company": "ST-lite (Pvt) Ltd.",
+      "url": "https://st-lite.com/",
+      "period": "SEP 2024- PRESENT (Part-time)",
+      "description": "Experienced in designing and developing IoT-based temperature and humidity monitoring and control systems using ESP32, DHT22, Firebase, and mobile/web interfaces. Proficient in real-time data access, system synchronization using NTP, and actuator integration for environmental control. Skilled in web development (HTML, CSS, JavaScript) and team supervision with hands-on support for interns"
+    },
+    {
+      "id": "2",
+      "src": "./img/uoj2.png",
+      "title": "Instructor at EEE Department",
+      "company": "Faculty of Engineering University of Jaffna",
+      "url": "https://www.eng.jfn.ac.lk/",
+      "period": "DEC 2024- PRESENT (Full-time)",
+      "description": "Experienced Instructor in the Electrical and Electronic Department, conducting practical sessions in Analog and Communication Systems, Domestic Wiring, and Electrical Measurements using Wheatstone Bridge. Skilled in guiding students through hands-on laboratory work, ensuring strong understanding of core electrical concepts and measurement techniques."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/placeholder-image.png",
+      "title": "Developing a System and Approach for Estimating Core Temperature Using Skin Temperature Measurements",
+      "description": "This study proposes a non-invasive method to estimate core body temperature (CBT) using machine learning models integratedwithwearable sensors. The model uses skin temperature, heart rate, and environmental conditions (temperature, humidity), combinedwithuser-specific metadata such as age, gender, and health conditions. A Random Forest model was trained on volunteer data toproviderealtime core temperature predictions with a reliable accuracy (RMSE of 0.307, MAE of 0.237). The systemis designedfor wearabledevices, allowing continuous health monitoring and providing early detection of potential heat-related illnesses.",
+      "link": "View In google drive",
+      "url": "https://drive.google.com/drive/folders/1AAOQPWj7K3G24KG4rTuVl3VjQU0d8sKD?usp=sharing"
+    },
+    {
+      "id": "2",
+      "src": "./img/placeholder-image-1.png",
+      "title": "Motion Activated Solar Light Brightness System",
+      "description": "OUTDOOR SOLAR LIGHTS OFTEN WASTE ENERGY BY STAYING AT THE SAME BRIGHTNESS. OUR PROJECT FIXES THIS BY USING A MOTION DETECTOR TO ADJUST THE LIGHT BASED ON ACTIVITY.",
+      "link": "View In google drive",
+      "url": "https://drive.google.com/drive/folders/1MssET86ZOIcCgxcqAqUEMhfYIKGi3Mgv?usp=sharing"
+    },
+    {
+      "id": "3",
+      "src": "./img/placeholder-image-2.png",
+      "title": "University Health Center Assistance",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "link": "View In Github",
+      "url": "https://github.com/Thushi1503/-Chatbot"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/Thayaparan2.png",
+      "description": "Head, Department of Electronic &Telecommunication Engineering,University of Moratuwa, Email: office@st-lite.com",
+      "author_name": "Dr. Thayaparan",
+      "url": "https://uom.lk/staff/Thayaparan.S",
+      "author_designation": "Senior Lecturer Grade I"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/sajeeth.png",
+      "description": "General Manager Research & Development, David Pieris Motor Company (Pvt) Ltd. Email:CharithSa@dpmco.com",
+      "author_name": "Charith Samaratunga",
+      "url": "https://www.linkedin.com/in/charith-samaratunga-b774aa43/",
+      "author_designation": "General Manager R&D"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/ahilan.png",
+      "description": "Professor, Electrical and Electronic Engineering Department Faculty of Engineering,University of Jaffna. Email:ahilan.eng@gmail.com",
+      "author_name": "Prof. K. Ahilan ",
+      "url": "https://www.eng.jfn.ac.lk/dr-m-k-ahilan/",
+      "author_designation": "Professor"
+    }
+  ]
+}
