@@ -215,7 +215,7 @@ a {
 .hero--section {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 80px 85.333px 50px;
+  padding: 80px 40px 50px;
   align-items: center;
   justify-content: space-between;
   gap: 32px;
@@ -279,7 +279,7 @@ a {
 /* Skills Section Style */
 .skills--section {
   display: flex;
-  padding: 50px 85.33px;
+  padding: 50px 20px;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
@@ -362,7 +362,7 @@ a {
 /* About Us */
 .about--section {
   display: grid;
-  padding: 30px 85.3px;
+  padding: 30px 30px;
   align-items: center;
   gap: 114.6px;
   grid-template-columns: repeat(2, 1fr);
@@ -378,7 +378,7 @@ a {
 /* My Portfolio Starts */
 .portfolio--section {
   display: flex;
-  padding: 20px 85px;
+  padding: 20px 30px;
   flex-direction: column;
   align-items: flex-start;
   gap: 30px;
@@ -460,7 +460,7 @@ a {
 /* Testimonial */
 .testimonial--section {
   display: flex;
-  padding: 112px 84.3px;
+  padding: 112px 35px;
   flex-direction: column;
   align-items: flex-start;
   gap: 80px;
