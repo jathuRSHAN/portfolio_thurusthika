@@ -105,7 +105,7 @@ function Navbar() {
             </Link>
           </li>
 
-          <li>
+          {/* <li>
             <Link
               onClick={closeMenu}
               activeClass="navbar--active-content"
@@ -118,7 +118,7 @@ function Navbar() {
             >
               Reference
             </Link>
-          </li>
+          </li> */}
         </ul>
       </div>
       <Link
