@@ -17,7 +17,7 @@ export default function HeroSection() {
         </div>
         <div className="hero--section--button">
           <a href="https://www.linkedin.com/in/thurusthika-nesalingam-8a2524143/" target="_blank"><button className="btn btn-primary">Get In Touch</button> </a>
-          <a href="https://drive.google.com/file/d/1vWwMkcRViPoP1DM242josPHY39tVkVYx/view?usp=sharing" target="_blank"><button className="btn btn-primary"> Download CV</button></a>
+          <a href="https://drive.google.com/file/d/1WqWYRKqOeyJdfXpQQrKf-0OyQID2Kcx0/view?usp=sharing" target="_blank"><button className="btn btn-primary"> Download CV</button></a>
         </div>
 
       </div>
