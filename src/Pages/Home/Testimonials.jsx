@@ -16,7 +16,7 @@ export default function Testimonial() {
             <div className="testimonial--section--card--author--detail">
               <a href={item.url}> <img src={item.src} alt="Avatar" /></a>
               <div>
-                <a href={item.url}><p className="text-md testimonial--author--name">
+                <a href={item.url} target="_blank"><p className="text-md testimonial--author--name">
                   {item.author_name}
                 </p></a>
                 <p className="text-md testimonial--author--designation">

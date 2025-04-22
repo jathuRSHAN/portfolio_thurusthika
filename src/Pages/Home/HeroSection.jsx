@@ -13,13 +13,13 @@ export default function HeroSection() {
             ENGINEER
           </h1>
           <p className="hero--section-description">
-            Bachelor of the Science of Engineering honors Specialised in Electrical and Electronics Engineering
+            Bachelor of the Science of Engineering Honours Specialised in Electrical and Electronics Engineering
             <br /> University of Jaffna
           </p>
         </div>
         <div className="hero--section--button">
-          <button className="btn btn-primary">Get In Touch</button>
-          <button className="btn btn-primary"> Download CV</button>
+          <a href="https://www.linkedin.com/in/thurusthika-nesalingam-8a2524143/" target="_blank"><button className="btn btn-primary">Get In Touch</button> </a>
+          <a href="https://drive.google.com/file/d/1vWwMkcRViPoP1DM242josPHY39tVkVYx/view?usp=sharing" target="_blank"><button className="btn btn-primary"> Download CV</button></a>
         </div>
 
       </div>
