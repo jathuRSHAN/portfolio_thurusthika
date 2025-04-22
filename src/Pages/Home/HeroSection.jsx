@@ -1,9 +1,7 @@
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
-      <div className="hero--section--img">
-        <img src="./img/hero_img.png" alt="Hero Section" />
-      </div>
+
       <div className="hero--section--content--box">
         <div className="hero--section--content">
           <p className="section--title">Hey, I'm THURUSTHIKA NESALINGAM</p>
@@ -22,6 +20,9 @@ export default function HeroSection() {
           <a href="https://drive.google.com/file/d/1vWwMkcRViPoP1DM242josPHY39tVkVYx/view?usp=sharing" target="_blank"><button className="btn btn-primary"> Download CV</button></a>
         </div>
 
+      </div>
+      <div className="hero--section--img">
+        <img src="./img/hero_img.png" alt="Hero Section" />
       </div>
 
     </section>
